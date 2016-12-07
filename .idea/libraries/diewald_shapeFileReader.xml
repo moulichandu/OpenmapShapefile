@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="diewald_shapeFileReader">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/diewald_shapeFileReader.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

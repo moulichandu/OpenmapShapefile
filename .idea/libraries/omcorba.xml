@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="omcorba">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/omcorba.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

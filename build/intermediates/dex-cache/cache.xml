@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/tele/Documents/SkypeDownloads/OpenmapShapefile/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/home/tele/Documents/SkypeDownloads/OpenmapShapefile/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.4.0_ffc623d20106ce264f107f12febf776940092ab7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tele/Documents/SkypeDownloads/OpenmapShapefile/app/libs/openmap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="02415bb2ccec34a87fc1f7de473ee0e5b89f626a">
+        <dex dex="/home/tele/Documents/SkypeDownloads/OpenmapShapefile/app/build/intermediates/transforms/dex/debug/folders/1000/2/openmap_e815a4997f4d6eaa14bf847e776100db90feb340/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tele/Documents/SkypeDownloads/OpenmapShapefile/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/home/tele/Documents/SkypeDownloads/OpenmapShapefile/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.0.0_893be1eb1f78164be698320c8194a20cff5fa90d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tele/Documents/SkypeDownloads/OpenmapShapefile/app/libs/omsvg.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c914fd190a20a6de053acaff0cb42433ccf8d348">
+        <dex dex="/home/tele/Documents/SkypeDownloads/OpenmapShapefile/app/build/intermediates/transforms/dex/debug/folders/1000/2/omsvg_54918c20b1278a138e9593aa3c930112632ba9fd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tele/Documents/SkypeDownloads/OpenmapShapefile/app/libs/omcorba.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="fd86501b16b5af56c6674b6fa45dd2d08b29d2ca">
+        <dex dex="/home/tele/Documents/SkypeDownloads/OpenmapShapefile/app/build/intermediates/transforms/dex/debug/folders/1000/2/omcorba_a4736a458ea8945c6bfe2dddb2bd41bfc1c651d7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tele/Documents/SkypeDownloads/OpenmapShapefile/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="de0d72cc1ca887d6baf9d845714f808cd8adad46">
+        <dex dex="/home/tele/Documents/SkypeDownloads/OpenmapShapefile/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_a5aec983b56f127b32fe5875248f02e1fc73ec59/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tele/Documents/SkypeDownloads/OpenmapShapefile/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/home/tele/Documents/SkypeDownloads/OpenmapShapefile/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.4.0_4265f890864c7de5507c5ab71cccade5f6be2cb1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tele/Documents/SkypeDownloads/OpenmapShapefile/app/libs/omj3d.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="421adde9711beff53ee333843bb5d1fedfa5e95f">
+        <dex dex="/home/tele/Documents/SkypeDownloads/OpenmapShapefile/app/build/intermediates/transforms/dex/debug/folders/1000/2/omj3d_ef55be24e64cdcad9ab382962d4057389b6a2ed4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tele/Documents/Eclipse/adt-bundle-linux-x86_64-20140702/sdk/extras/android/m2repository/com/android/support/support-annotations/24.0.0/support-annotations-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="/home/tele/Documents/SkypeDownloads/OpenmapShapefile/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.0.0_b370aa2c85e704d3687e536af22a4e5a880105f2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tele/Documents/SkypeDownloads/OpenmapShapefile/app/build/intermediates/exploded-aar/com.android.support/multidex/1.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="/home/tele/Documents/SkypeDownloads/OpenmapShapefile/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-multidex-1.0.1_1e0dfc352b26a1153a63af1a0f965425a7569158/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tele/Documents/SkypeDownloads/OpenmapShapefile/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/home/tele/Documents/SkypeDownloads/OpenmapShapefile/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0_911262d0e69d6cbbaeaf76dfd6e7ebe9a44ce1e6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tele/Documents/SkypeDownloads/OpenmapShapefile/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6787ff468c9b644526458168ee7034b406ab23aa">
+        <dex dex="/home/tele/Documents/SkypeDownloads/OpenmapShapefile/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_941eaa0b22a453d8dae91db4e0f8cc01daa749a6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tele/Documents/SkypeDownloads/OpenmapShapefile/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="/home/tele/Documents/SkypeDownloads/OpenmapShapefile/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-9.8.0_3ef23c964f9547ecb634d82b77a1c0f8e0de86ed/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tele/Documents/SkypeDownloads/OpenmapShapefile/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
+        <dex dex="/home/tele/Documents/SkypeDownloads/OpenmapShapefile/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-9.8.0_2432f29d96018b3a88b563c7a8ddc92ed0651a84/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tele/Documents/SkypeDownloads/OpenmapShapefile/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/home/tele/Documents/SkypeDownloads/OpenmapShapefile/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.4.0_ba8b82c53570448f311611025fa193acd687e3cf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tele/Documents/SkypeDownloads/OpenmapShapefile/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="/home/tele/Documents/SkypeDownloads/OpenmapShapefile/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.8.0_9ef089dcf80c5d949736e342d6930434f9747546/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tele/Documents/SkypeDownloads/OpenmapShapefile/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="122ec9237acd8a57d974b9d529987f1ee6ca5aea">
+        <dex dex="/home/tele/Documents/SkypeDownloads/OpenmapShapefile/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-maps-9.8.0_fd21919ed953931eadcaddc086c7187788086f46/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tele/Documents/SkypeDownloads/OpenmapShapefile/app/libs/diewald_shapeFileReader.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="342299f392cec6bab945f099d426657c81ff85fd">
+        <dex dex="/home/tele/Documents/SkypeDownloads/OpenmapShapefile/app/build/intermediates/transforms/dex/debug/folders/1000/2/diewald_shapeFileReader_8ed8ee9f3f5d0c16b05205183caa5d8576e98129/classes.dex" />
+    </item>
+
+</items>
